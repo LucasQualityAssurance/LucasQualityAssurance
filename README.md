@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👨‍💻 Lucas Alves - Quality Assurance
 
-<!--
-**LucasQualityAssurance/LucasQualityAssurance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com/?lines=🤖+Automatizando+o+presente+para+garantir+a+qualidade+do+futuro;⚡+Menos+cliques+manuais,+mais+resultados+consistentes;🎯+Software+de+qualidade+não+é+acaso,+é+estratégia;💡+Qualidade+não+é+um+ato,+é+um+hábito&font=Fira%20Code&center=false&width=750&height=150&color=#f75c7e&vCenter=true&size=18&pause=1000&padding=20" />
 
-Here are some ideas to get you started:
+## 🎯 Sobre mim
+Sou um profissional de **Qualidade de Software** apaixonado por tecnologia e automação! Atualmente estou me especializando cada vez mais em **testes automatizados**, buscando sempre entregar produtos com a melhor qualidade possível.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300">
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### Linguagens e Ferramentas
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 Minhas Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasQualityAssurance&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasQualityAssurance&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
+---
+
+## 📈 Estudos/Atividades em andamento
+
+<!--START_SECTION:activity-->
+1. 🚀 Aprimorando conhecimentos em automação WEB com Selenium e Java + Cucumber
+2. 📖 Estudando para a certificação CTFL
+<!--END_SECTION:activity-->
+
+---
+
+## 🐍 Contribuições
+
+![Snake animation](https://github.com/LucasQualityAssurance/LucasQualityAssurance/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Como me encontrar
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucasalvescardoso/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:lucasqa.ti@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <!--
+  <a href="https://instagram.com/seu-instagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  --!>
+  
+</div>
+
+
+
