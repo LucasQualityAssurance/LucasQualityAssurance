@@ -5,9 +5,7 @@
 ## 🎯 Sobre mim
 Sou um profissional de **Qualidade de Software** apaixonado por tecnologia e automação! Atualmente estou me especializando cada vez mais em **testes automatizados**, buscando sempre entregar produtos com a melhor qualidade possível.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300">
-</div>
+ ![Video](https://github.com/user-attachments/assets/6c7d6f31-275c-49e2-9cee-808f011fc19e)
 
 ---
 
@@ -43,12 +41,6 @@ Sou um profissional de **Qualidade de Software** apaixonado por tecnologia e aut
 1. 🚀 Aprimorando conhecimentos em automação WEB com Selenium e Java + Cucumber
 2. 📖 Estudando para a certificação CTFL
 <!--END_SECTION:activity-->
-
----
-
-## 🐍 Contribuições
-
-![Snake animation](https://github.com/LucasQualityAssurance/LucasQualityAssurance/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
