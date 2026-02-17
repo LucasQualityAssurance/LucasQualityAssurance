@@ -1,11 +1,5 @@
 # 👨‍💻 Lucas Alves - Quality Assurance
-
 <img src="https://readme-typing-svg.herokuapp.com/?lines=🤖+Automatizando+o+presente+para+garantir+a+qualidade+do+futuro;⚡+Menos+cliques+manuais,+mais+resultados+consistentes;🎯+Software+de+qualidade+não+é+acaso,+é+estratégia;💡+Qualidade+não+é+um+ato,+é+um+hábito&font=Fira%20Code&center=false&width=750&height=150&color=#f75c7e&vCenter=true&size=18&pause=1000&padding=20" />
-
-## 🎯 Sobre mim
-Sou um profissional de **Qualidade de Software** apaixonado por tecnologia e automação! Atualmente estou me especializando cada vez mais em **testes automatizados**, buscando sempre entregar produtos com a melhor qualidade possível.
-
- ![Video](https://github.com/user-attachments/assets/6c7d6f31-275c-49e2-9cee-808f011fc19e)
 
 ---
 
